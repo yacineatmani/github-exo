@@ -43,4 +43,4 @@ git pull
 Git merge
 La commande git merge est utilisée pour fusionner une branche dans la branche active. Usage:
 git merge <nom-branche>
-
+Et voilà ce que j'ai ajouté depuis pc_maison .
